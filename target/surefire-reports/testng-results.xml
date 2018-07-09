@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite1" duration-ms="36294" started-at="2018-07-06T13:56:27Z" finished-at="2018-07-06T13:57:03Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="36294" started-at="2018-07-06T13:56:27Z" finished-at="2018-07-06T13:57:03Z">
+      <class name="TestSuite1">
+        <test-method status="PASS" signature="runPreconditions()[pri:0, instance:TestSuite1@7a0ac6e3]" name="runPreconditions" is-config="true" duration-ms="5821" started-at="2018-07-06T16:56:27Z" finished-at="2018-07-06T16:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPreconditions -->
+        <test-method status="PASS" signature="testUIelementsMainPageNotLogin()[pri:1, instance:TestSuite1@7a0ac6e3]" name="testUIelementsMainPageNotLogin" duration-ms="463" started-at="2018-07-06T16:56:33Z" finished-at="2018-07-06T16:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUIelementsMainPageNotLogin -->
+        <test-method status="PASS" signature="runPostConditions()[pri:0, instance:TestSuite1@7a0ac6e3]" name="runPostConditions" is-config="true" duration-ms="1968" started-at="2018-07-06T16:56:33Z" finished-at="2018-07-06T16:56:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPostConditions -->
+        <test-method status="PASS" signature="runPreconditions()[pri:0, instance:TestSuite1@7a0ac6e3]" name="runPreconditions" is-config="true" duration-ms="4153" started-at="2018-07-06T16:56:35Z" finished-at="2018-07-06T16:56:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPreconditions -->
+        <test-method status="PASS" signature="testGmailLink()[pri:2, instance:TestSuite1@7a0ac6e3]" name="testGmailLink" duration-ms="1970" started-at="2018-07-06T16:56:39Z" finished-at="2018-07-06T16:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGmailLink -->
+        <test-method status="PASS" signature="runPostConditions()[pri:0, instance:TestSuite1@7a0ac6e3]" name="runPostConditions" is-config="true" duration-ms="2588" started-at="2018-07-06T16:56:41Z" finished-at="2018-07-06T16:56:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPostConditions -->
+        <test-method status="PASS" signature="runPreconditions()[pri:0, instance:TestSuite1@7a0ac6e3]" name="runPreconditions" is-config="true" duration-ms="3946" started-at="2018-07-06T16:56:44Z" finished-at="2018-07-06T16:56:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPreconditions -->
+        <test-method status="PASS" signature="testImagesLink()[pri:2, instance:TestSuite1@7a0ac6e3]" name="testImagesLink" duration-ms="600" started-at="2018-07-06T16:56:48Z" finished-at="2018-07-06T16:56:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testImagesLink -->
+        <test-method status="PASS" signature="runPostConditions()[pri:0, instance:TestSuite1@7a0ac6e3]" name="runPostConditions" is-config="true" duration-ms="1923" started-at="2018-07-06T16:56:48Z" finished-at="2018-07-06T16:56:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPostConditions -->
+        <test-method status="PASS" signature="runPreconditions()[pri:0, instance:TestSuite1@7a0ac6e3]" name="runPreconditions" is-config="true" duration-ms="3944" started-at="2018-07-06T16:56:50Z" finished-at="2018-07-06T16:56:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPreconditions -->
+        <test-method status="PASS" signature="testSearchResult()[pri:2, instance:TestSuite1@7a0ac6e3]" name="testSearchResult" duration-ms="924" started-at="2018-07-06T16:56:54Z" finished-at="2018-07-06T16:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchResult -->
+        <test-method status="PASS" signature="runPostConditions()[pri:0, instance:TestSuite1@7a0ac6e3]" name="runPostConditions" is-config="true" duration-ms="1944" started-at="2018-07-06T16:56:55Z" finished-at="2018-07-06T16:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPostConditions -->
+        <test-method status="PASS" signature="runPreconditions()[pri:0, instance:TestSuite1@7a0ac6e3]" name="runPreconditions" is-config="true" duration-ms="3960" started-at="2018-07-06T16:56:57Z" finished-at="2018-07-06T16:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPreconditions -->
+        <test-method status="PASS" signature="testSettingsLink()[pri:2, instance:TestSuite1@7a0ac6e3]" name="testSettingsLink" duration-ms="252" started-at="2018-07-06T16:57:01Z" finished-at="2018-07-06T16:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSettingsLink -->
+        <test-method status="PASS" signature="runPostConditions()[pri:0, instance:TestSuite1@7a0ac6e3]" name="runPostConditions" is-config="true" duration-ms="1816" started-at="2018-07-06T16:57:01Z" finished-at="2018-07-06T16:57:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runPostConditions -->
+      </class> <!-- TestSuite1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestSuite1 -->
+</testng-results>
